@@ -37,7 +37,7 @@
 
 <h2 align="center">👾 Pac-Man Mode</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Pac-Man animation" />
+  <img src="https://media.giphy.com/media/e1vLsdOQ4jN5y/giphy.gif" width="300" alt="Pac-Man animation" />
 </p>
 
 ---
