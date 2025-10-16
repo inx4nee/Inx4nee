@@ -36,9 +36,8 @@
 ---
 
 <h2 align="center">👾 Pac-Man Mode</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/pacman.gif" width="300" alt="Pac-Man animation" />
-</p>
+<p align="center" style="font-size:40px;">🟡 🍒 👻 👻 👻</p>
+<p align="center"><i>Keep coding and never let the bugs catch you!</i></p>
 
 ---
 
