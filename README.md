@@ -35,6 +35,13 @@
 
 ---
 
+<h2 align="center">👾 Pac-Man Mode</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/pacman.svg" alt="Pac-Man animation" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inx4nee&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inx4nee&layout=compact&theme=radical)  
