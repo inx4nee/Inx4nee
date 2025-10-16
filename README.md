@@ -36,8 +36,9 @@
 ---
 
 <h2 align="center">👾 Pac-Man Mode</h2>
-<p align="center" style="font-size:40px;">🟡 🍒 👻 👻 👻</p>
-<p align="center"><i>Keep coding and never let the bugs catch you!</i></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/e1vLsdOQ4jN5y/giphy.gif" width="300" alt="Pac-Man animation" />
+</p>
 
 ---
 
