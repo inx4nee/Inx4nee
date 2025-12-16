@@ -12,7 +12,7 @@
 
 ---
 
-## ⌨️ Typing Intro
+## Me?
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Aspiring+Game+Developer;Systems+%26+Compiler+Learner;Networking+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
