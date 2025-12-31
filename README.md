@@ -28,13 +28,6 @@
 
 ---
 
-## 📌 Featured Projects
-🔹 [**MyGame**](#) → A simple 2D game built in C++/SDL2  
-🔹 [**MiniOS**](#) → A toy operating system from scratch  
-🔹 [**ChatApp**](#) → A client-server chat app (C++ & sockets)  
-
----
-
 ## 👀 Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=Inx4nee&color=blueviolet&style=for-the-badge)
 
