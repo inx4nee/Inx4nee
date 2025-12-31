@@ -35,17 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inx4nee&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inx4nee&layout=compact&theme=radical)  
-
----
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Inx4nee&theme=radical&no-frame=true&margin-w=15)
-
----
-
 ## 👀 Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=Inx4nee&color=blueviolet&style=for-the-badge)
 
