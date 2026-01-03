@@ -5,18 +5,6 @@
 
 ---
 
-## ✨ About Me
-- 🔭 I’m currently learning **Game Development, Operating Systems, Compilers, and Networking**  
-- 🌱 Always experimenting with **mid-level programming & performance optimization**  
-- 🎯 Goal: Become a **pro developer** in systems & game dev 
-
----
-
-## Me?
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Aspiring+Game+Developer;Systems+%26+Compiler+Learner;Networking+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
-
----
-
 ## 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
