@@ -35,6 +35,7 @@
 
 ---
 ## 💌 Support Me
+liked my work? consider supporting.
 <a href="https://www.buymeacoffee.com/Sainnee" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
          alt="Buy Me A Coffee" 
