@@ -3,7 +3,7 @@
 💻 **Aspiring Game & Systems Developer**  
 🎮 Exploring Game Development | 🖥️ Building OS & Compilers | 🌐 Networking Enthusiast  
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Inx4nee&theme=radical&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
