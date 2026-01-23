@@ -3,9 +3,6 @@
 💻 **Aspiring Game & Systems Developer**  
 🎮 Exploring Game Development | 🖥️ Building OS & Compilers | 🌐 Networking Enthusiast  
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Inx4nee&theme=radical&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ---
 
 ## 🛠️ Tech Stack
@@ -28,6 +25,10 @@
 ---
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Inx4nee&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Inx4nee&theme=radical&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
