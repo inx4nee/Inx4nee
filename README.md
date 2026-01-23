@@ -28,11 +28,6 @@
 
 ---
 
-![Snake animation](https://github.com/Inx4nee/Inx4nee/blob/output/github-contribution-grid-snake.svg)
-
-
----
-
 ## 👀 Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=Inx4nee&color=blueviolet&style=for-the-badge)
 
