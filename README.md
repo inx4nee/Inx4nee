@@ -24,10 +24,6 @@
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Inx4nee&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 ## 👀 Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=Inx4nee&color=blueviolet&style=for-the-badge)
 
