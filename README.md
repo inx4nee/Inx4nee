@@ -27,4 +27,8 @@
 
 ---
 ## 💌 Support Me
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/Sainnee)
+<a href="https://www.buymeacoffee.com/Sainnee" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+         alt="Buy Me A Coffee" 
+         style="height: 50px !important; width: 180px !important;" >
+</a>
