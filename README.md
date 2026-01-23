@@ -27,9 +27,4 @@
 
 ---
 ## 💌 Support Me
-<body>
-    <h1>My Website</h1>
-    <p>Thanks for reading my content!</p>
-    
-    <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="Sainnee" ... ></script>
-</body>
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/Sainnee)
