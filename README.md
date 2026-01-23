@@ -40,3 +40,14 @@
          alt="Buy Me A Coffee" 
          style="height: 50px !important; width: 180px !important;" >
 </a>
+
+---
+
+<a href="https://www.buymeacoffee.com/Sainnee" target="_blank">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=Sainnee&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" />
+</a>
+
+---
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Sainnee)
+
