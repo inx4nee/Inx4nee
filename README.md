@@ -24,7 +24,7 @@
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Inx4nee&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
