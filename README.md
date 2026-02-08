@@ -1,9 +1,3 @@
-# Hi there 👋, I'm Inx4nee
-
-💻 **Aspiring Game & Systems Developer**  
-🎮 Exploring Game Development | 🖥️ Building OS & Compilers | 🌐 Networking Enthusiast  
-
----
 
 ## 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
